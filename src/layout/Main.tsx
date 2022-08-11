@@ -8,7 +8,7 @@ function Main() {
         <>
             <Routes>
                 <Route path="" element={<MainPage />} />
-                <Route path="/calculations:number"  element={<Calculations />} />
+                <Route path="/calculations"  element={<Calculations />} />
                 <Route element={<MainPage />} />
             </Routes>
         </>

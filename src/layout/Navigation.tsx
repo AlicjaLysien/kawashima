@@ -27,7 +27,6 @@ const navItems = {'Home': '', 'Calculations': 'calculations'};
 
 function Navigation() {
 
-
     return (
         <>
         <Box sx={{ flexGrow: 1 }}>

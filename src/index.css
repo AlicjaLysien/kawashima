@@ -18,11 +18,15 @@ code {
     monospace;
 }
 
-.calc {
+.main {
   display: flex;
   flex-direction: column;
   height: 100%;
   margin-top: 20px;
+}
+
+.main-input {
+ display: block;
 }
 
 .link {
